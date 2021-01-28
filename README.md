@@ -1,2 +1,5 @@
 # Lost-world
-Its Mob App
+#VGG_16
+#Tensorflow
+#
+This model can detect flowers/objects.
